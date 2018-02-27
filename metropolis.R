@@ -5,7 +5,7 @@ library(coda)
 library(mcmc)
 library(xtable)
 library(plotly)
-setwd("/Users/olga/Desktop/University/SDS 2/fp/final_proj/jugs/")
+setwd("")
 #########################################
 ###############FUNCTIONS#################
 #########################################
@@ -183,7 +183,7 @@ batch_var <- function(chain, batch_size = 200){
 }
 
 #########################################
-###############ANALYSIS#################
+###############ANALYSYS#################
 #########################################
 #initial data
 x = c(6,9,17,22,7,5,5,14,9,7,9,51)
