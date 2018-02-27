@@ -1,1 +1,3 @@
-# Bayesian-analysis
+The aim of the project is to perform full Bayesian analysis of the data on the effect of a drug used to treat patients with frequent premature ventricular contractions (PVCs) of the heart. The desirable outcome of the Bayesian analysis is to provide a possible model that explains the data and provide us with measurement of a latent variable which is supposed to give us an information about efficiency of using the drug. The project is organized as follows. Firstly, we will try to understand the data and derive a proper posterior distribution which allow us to make an inference on giving parameters and latent ones. Then we perform a simulation study and try to figure out the way to get accurate estimates with Metropolis algorithm. At the end we compare our results with WinBUGS model using DIC and marginal likelihood estimation.
+
+For the full report please check report.pdf
